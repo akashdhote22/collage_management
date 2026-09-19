@@ -12,7 +12,7 @@ const {
   getStudentTimetable,
   updateTimetable,
   deleteTimetable,
-} = require("../controllers/timetableController");
+} = require("../controllers/timetablecontroller");
 
 const router = express.Router();
 
