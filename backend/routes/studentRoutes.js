@@ -12,7 +12,7 @@ const {
   getStudentCourses,
   getStudentDashboard,
   getStudentProfile,
-} = require("../controllers/studentController");
+} = require("../controllers/studentcontroller");
 
 const router = express.Router();
 
